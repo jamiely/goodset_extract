@@ -2,6 +2,8 @@ Alien Soldier
 Alisia Dragoon
 Altered Beast
 Arcus Odyssey
+Arrow Flash
+Atomic Runner
 Beyond Oasis
 Bio-Hazard Battle
 Boogerman
@@ -9,8 +11,10 @@ Castle of Illusion
 Castlevania: Bloodlines
 Comix Zone
 Contra Hard Corps
+Contra: Hard Corps
 Cool Spot
 Crusader of Centy
+Desert Strike
 Disneys Aladdin
 Dr. Robotniks Mean Bean Machine
 Dune II: The Battle for Arrakis
@@ -19,7 +23,11 @@ Earthworm Jim
 Ecco 2: The Tides of Time
 Ecco the Dolphin
 El Viento
+Elemental Master
+Eliminate Down
 Eternal Champions
+Fire Mustang
+Fire Shark
 Flashback
 Forgotten Worlds
 Formula One
@@ -30,19 +38,26 @@ Ghouls n Ghosts
 Golden Axe
 Golden Axe II
 Golden Axe III
+Greylancer
+Grind Stormer
 Gunstar Heroes
+Gynoug
+Hellfire
 Herzog Zwei
 John Madden Football
 Jungle Strike
 Jurassic Park
 Kid Chameleon
 LandStalker
-Lightening Force
+Lightning Force
 M.U.S.H.A.
+MUSHA
 Mega Bomberman
 Mega Man: The Wily Wars
+Mega Turrican
 Michael Jacksons Moonwalker
 Micro Machines Turbo Tournament 96
+Midnight Resistance
 Might and Magic
 Monster World IV
 Mortal Kombat
@@ -55,9 +70,12 @@ OutRun
 Phantasy Star II
 Phantasy Star III
 Phantasy Star IV
+Phelios
 Pirates! Gold
 Quack Shot
 Quackshot
+Raiden Trad
+Ranger X
 Ranger X
 Revenge of Shinobi
 Ristar
@@ -65,12 +83,15 @@ Road Rash
 Road Rash II
 Rock N Roll Racing
 Rocket Knight Adventures
+Sagaia
 Shadow Dancer
 Shadowrun
 Shining Force
 Shining Force II
 Shining in the Darkness
 Shinobi III
+Skeleton Krew
+Slap Fight
 Sonic & Knuckles
 Sonic 3 & Knuckles
 Sonic 3D Blast
@@ -82,29 +103,43 @@ Sonic the Hedgehog 3
 Splatterhouse 3
 Star Control
 StarFlight
+Steel Empire
 Street Fighter II Special Champion Edition
 Streets of Rage
 Streets of Rage 2
 Streets of Rage 3
 Strider
+Sub-Terrania
 Sunset Riders
+Super Airwolf
+Super Fantasy Zone
 Super Street Fighter II
 Target Earth
 Teenage Mutant Ninja Turtles: The Hyperstone Heist
+Thunder Force 2
+Thunder Force 3
 Thunder Force III
+Thunderforce 4
 ToeJam & Earl
 Toejam & Earl in Panic on Funkotron
+Truxton
+Twin Hawk
 Twinkle Tale
 Ultimate Mortal Kombat 3
+Undead Line
 Urban Strike
 Vectorman
 Vectorman 2
+Verytex
+Viewpoint
 Virtua Racing
 Warriors of the Eternal Sun
 Warsong
+Whip Rush
+Wings of Wor
 Wonder Boy in Monster World
 World Series Baseball
-World of Illusion
+World of Illusion Starring Mickey Mouse and Donald Duck
 Yuu Yuu Hakusho: Makyo Toitsusen
 Zero Wing
 Zombies Ate My Neighbors

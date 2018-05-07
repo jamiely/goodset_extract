@@ -65,7 +65,7 @@ class Program
       if !matches.nil? && matches.length > 1
         matches[1]
       else
-        nil
+        line.length
       end
     end
     sorted.first
